@@ -13,8 +13,7 @@
   "dependencies": {
     "@angular/animations": "5.2.11",
     "@angular/common": "5.2.11",
-    "@angular/compiler": "5.2.11",
-    "@angular/compiler-cli": "^9.1.9",
+    "@angular/compiler": "^5.2.11",
     "@angular/core": "5.2.11",
     "@angular/forms": "5.2.11",
     "@angular/http": "^7.2.16",
@@ -44,6 +43,8 @@
     "zone.js": "0.8.29"
   },
   "devDependencies": {
+    "@angular/cli": "^9.1.7",
+    "@angular/compiler-cli": "^9.1.9",
     "@ionic/app-scripts": "3.2.4",
     "typescript": "2.6.2"
   },
